@@ -172,6 +172,10 @@ class PHPJasper
             $this->command .= " -r {$options['resources']}";
         }
 
+        if (isset($options['pages'])) {
+            $this->command .= ' --pages ' . $options['pages'];
+        }
+
         $this->command .= " 2>&1";
 
         return $this;
