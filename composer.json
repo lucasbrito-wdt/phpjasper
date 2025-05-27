@@ -1,5 +1,5 @@
 {
-  "name": "geekcom/phpjasper",
+  "name": "lucasbrito-wdt/phpjasper",
   "description": "A PHP report generator",
   "license": "MIT",
   "keywords": [
@@ -9,8 +9,8 @@
   ],
   "authors": [
     {
-      "name": "Daniel Rodrigues Lima",
-      "email": "geekcom@php.net",
+      "name": "Lucas Brito",
+      "email": "luquinhasbritogba@hotmail.com",
       "role": "lead"
     }
   ],
